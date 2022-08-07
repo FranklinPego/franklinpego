@@ -1,7 +1,9 @@
 ### Olá Eu sou o Ayrton Franklin
+##
+### Tenho 18 anos atualmente estou cursando sistemas de informação na Rede de Ensino Doctum. E busco oportunidades para melhoria Profissional
+##
 
-
-- 🔭 Hoje Trabalho com Front-End
+- 🔭 Hoje pretendo Trabalhar com Back-End
 - 🌱 Cursando Sistemas de Informação
 - 📫 Contate-me por email: ayrtonpego4@gmail.com
 - 😄 Pronouns: ele/dele
