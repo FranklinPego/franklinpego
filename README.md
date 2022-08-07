@@ -3,7 +3,7 @@
 ### Tenho 18 anos atualmente estou cursando sistemas de informação na Rede de Ensino Doctum. E busco oportunidades para melhoria Profissional
 ##
 
-- 🔭 Hoje pretendo Trabalhar com Back-End
+- 🔭 Hoje pretendo Trabalhar com Front-End
 - 🌱 Cursando Sistemas de Informação
 - 📫 Contate-me por email: ayrtonpego4@gmail.com
 - 😄 Pronouns: ele/dele
