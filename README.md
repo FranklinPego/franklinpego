@@ -1,6 +1,6 @@
 ### Olá Eu sou o Ayrton Franklin
 ##
-### Tenho 18 anos atualmente estou cursando sistemas de informação na Rede de Ensino Doctum. E busco oportunidades para melhoria Profissional
+### Este é meu histórico e logo abaixo todas as tecnologias que ultilizo no meu dia a dia!
 ##
 
 - 🔭 Hoje pretendo Trabalhar com Front-End
